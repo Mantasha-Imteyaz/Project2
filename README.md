@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by MANTASHA IMTEYAZ.
+Created by MANTASHA IMTEYAZ with shradha khapra.
